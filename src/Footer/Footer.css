@@ -1,0 +1,32 @@
+.footer-flex{
+    margin-right: 15px;
+}
+.footer-wrapper ul{
+    list-style: none;}
+.social-link {cursor: pointer;
+
+}   
+
+
+.linkwrapper li a{
+    text-decoration: none;
+    list-style: none;
+    color: #d1caca;
+
+}
+.linkwrapper  {
+    display: flex;
+        text-decoration: none;
+        list-style: none;
+	}
+.facebookLogo{
+        height: 50px !important;
+        width: 50px !important;
+
+    }
+.button{
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    margin-left: 50% !important;
+}
